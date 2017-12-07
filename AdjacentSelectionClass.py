@@ -1,6 +1,6 @@
 ###################################
 # Script:  AdjacentSelectionClass.py
-# Author:  Conrad Schaefer
+# Author:  CJuice
 # Date Created:  09/06/2017
 # Purpose:  This class gets imported into the main script. It defines a method that returns a layer with adjacent polygons selected.
 # Inputs:  
