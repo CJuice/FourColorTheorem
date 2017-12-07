@@ -1,6 +1,6 @@
 ###################################
 # Script:  MaxAdjacencyDetermination1.py
-# Author:  Conrad Schaefer
+# Author:  CJuice
 # Date Created:  09/06/2017
 # Purpose:  Determines the maximum adjacency at a primary and secondary level. Primary is all polygons that share a line segment with the feature of focus. Every feature is iterated over and evaluated. A secondary adjacency is determined by examinging the primary adjacent features for each feature of focus. Each secondary feature is iterated over and it is determined how many of the other secondary features are adjacent to the secondary feature of focus. Both values are written to their own unique field, created during the script.
 # Inputs:  Workspace, Scratch Workspace, Feature Layer of Interest
